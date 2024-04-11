@@ -1,0 +1,39 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+ }
+ body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(236, 228, 224, 0.358);
+    margin:0 20%;
+}
+
+#title{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: size 2rem;
+}
+img{
+    display: block;
+    width: 40%;
+    margin: auto;
+}
+#img-caption{
+    font-size: 2rem;
+}
+
+#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    padding:0;
+    margin-top: auto;
+}
+.title{
+    color:rgb(10, 9, 9);
+    text-align:center;
+    margin-top: auto;
+}
+#wiki-link{
+    color: rgb(42, 122, 214);
+}
